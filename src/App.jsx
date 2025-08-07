@@ -1,5 +1,6 @@
 import { useState } from "react"
 import Inicio from "./components/Inicio"
+import Presentacion from "./components/Presentacion"
 
 
 function App() {
@@ -48,6 +49,7 @@ function App() {
         </div>
       }
       <Inicio/>
+      <Presentacion/>
       {/* <video className="w-50" controls muted >
         <source src="maqya_1.mp4" type="video/mp4"></source>
       </video> */}
