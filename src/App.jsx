@@ -15,7 +15,7 @@ function App() {
     <>
       <div>
         <nav className='bg-[#610086] w-full h-19 flex justify-between items-center px-5 md:px-12 fixed top-0 z-50 shadow-2xl'>
-          <img className='w-20 ml-8 lg:ml-10' src="Posmark - logo blanco.png" alt="logo_posmark" />
+          <img className='w-20 ml-8 lg:ml-25' src="Posmark - logo blanco.png" alt="logo_posmark" />
           <div className='flex items-center gap-2'>
             <button className='bg-[#610086] hover:bg-[#3a0250] active:bg-[#3a0250] rounded shadow-black shadow-sm cursor-pointer lg:hidden' onClick={openMenu} ><img className="size-9" src="barra-de-menus (1).png" alt="" /></button>
 
