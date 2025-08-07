@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Inicio() {
     return (
-        <section className="bg-[url('fondo-1.jpg')] bg-cover bg-no-repeat bg-center min-h-119 w-full mt-19 md:mt-12 flex justify-center relative">
+        <section className="bg-[url(/fondo-1.jpg)] bg-cover bg-no-repeat bg-center min-h-119 w-full mt-19 md:mt-12 flex justify-center relative">
 
             <div className='w-[90%] xl:w-[75%] flex flex-col items-center md:flex-row md:justify-center'>
 
