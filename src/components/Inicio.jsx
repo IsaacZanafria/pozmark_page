@@ -13,7 +13,7 @@ export default function Inicio() {
                         tu empresa</p>
                     <div className='flex justify-center md:justify-normal mt-7'>
                         <a href="">
-                            <button className='bg-[#9028b9] hover:bg-[#3a0250] h-13 w-50 shadow-black shadow-sm text-white rounded-4xl font-semibold text-lg tracking-tight cursor-pointer flex justify-center items-center gap-2'>Contáctanos</button>
+                            <button className='bg-[#9028b9] hover:bg-[#3a0250] active:bg-[#3a0250] h-13 w-50 shadow-black shadow-sm text-white rounded-4xl font-semibold text-lg tracking-tight cursor-pointer flex justify-center items-center gap-2'>Contáctanos</button>
                         </a>
                     </div>
                 </div>
